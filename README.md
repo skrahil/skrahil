@@ -1,5 +1,4 @@
-### Hi there 👋
-[![MasterHead](https://media2.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif?cid=ecf05e47y6wru75hcxdifxc8jldfyn89576sz0cc5r6cq930&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Shaikh Rahil Mohd Sajid</h1>
 <h3 align="center">An Aspiring Cloud Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://akumengroup.com/wp-content/uploads/2020/02/Animation-1.gif">
