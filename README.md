@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Shaikh Rahil Mohd Sajid</h1>
 <h3 align="center">An Aspiring Cloud Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://akumengroup.com/wp-content/uploads/2020/02/Animation-1.gif">
+<img align="right" alt="Coding" width="600" src="https://akumengroup.com/wp-content/uploads/2020/02/Animation-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skrahil&label=Profile%20views&color=0e75b6&style=flat" alt="skrahil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skrahil" alt="skrahil" /></a> </p>
